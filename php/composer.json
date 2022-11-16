@@ -1,0 +1,19 @@
+{
+    "name": "kurt-krueckeberg/petzen",
+    "description": "geenalogy relate",
+    "type": "library",
+    "autoload": {
+        "psr-4": { "App\\": "src/App" }
+    },
+    "require": {
+        "php": ">=8.1", 
+        "ext-gd": "^8.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kurt Krueckeberg",
+            "email": "kurt.krueckeberg@gmail.com"
+        }
+    ]
+}
