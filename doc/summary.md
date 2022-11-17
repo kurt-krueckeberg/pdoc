@@ -2,12 +2,15 @@
 
 ## Contents Summary 
 
-The table below details the occurances of the Krückeberg and Weiland surnames found in the digital images of the Petzen and Nammen Church Register of ...1785 to 1827. 
-These images were downloaded from the Archion Protestant church book [portal](https://www.archion.de). A subscription fee is required to view them on [Archion](https://www.archion.de)
+The table lists the occurances of the Krückeberg and Weiland surnames in the Petzen and Nammen Church Register, 1785 to 1827. 
+The images are from the [Archion.de](https://archion.de) Protestant Church Book [Portal](https://www.archion.de). 
 
 Note: The permalink (a permanent link that will not ever change) will only work if you have an [Archion.de](https://www.archion.de) subscription.
 
-|Image Permalink|Year|Page No.|Entry #|Groom Name|Bride Name|
+<!--
+Just use <https://archion.de/....> for the permalink, and locallinks for the images, li e
+-->
+|Permalink|Year|Page No.|Entry #|Groom |Bride |
 | :---| :---| :---| :---| :---| :---|
 |[Image 3][3] |1785|1|3|Friderich Weiland|?|
 |[Image 4][4] |1788|3|5|Jobst Heinrich Weiland|?|
