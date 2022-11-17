@@ -10,6 +10,7 @@ Welcome to Petzen Church Book 1785-1827 Research's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   doc/lookup.md
 
 
 Indices and tables
