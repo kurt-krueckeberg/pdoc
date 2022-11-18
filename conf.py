@@ -28,7 +28,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'piccolo_theme'
-html_static_path = ['_static']
+html_static_path = ['static']
+# Kurt: This line suggested by piccolo theme author. The CSS files are relative to html_staic_path
+html_css_files = [ "custom.css" ]
 
 # -- Options for todo extension ----------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html#configuration

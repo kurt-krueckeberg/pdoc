@@ -1,0 +1,11 @@
+/* The best way to align the content to the left currently is: */
+
+ div.documentwrapper {
+    margin: 0;
+}
+
+/* Similarly, to make the content wider:*/
+
+div.documentwrapper {
+    max-width: 60rem;
+}
