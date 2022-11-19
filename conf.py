@@ -9,7 +9,7 @@
 project = 'Petzen Church Book 1785-1827 Research'
 copyright = '2022, Kurt Krueckeberg'
 author = 'Kurt Krueckeberg'
-release = '1'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
