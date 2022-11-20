@@ -1,4 +1,6 @@
-# Content Summary 
+# Petzen Church Book 1785-1827
+
+## Content Summary 
 
 This table shows the occurances of the Krückeberg and Weiland surnames in the Petzen and Nammen Church Register, 1785 to 1827. 
 The images are from the [Archion.de](https://archion.de) Protestant Church Book [Portal](https://www.archion.de). 
@@ -17,4 +19,4 @@ Just use <https://archion.de/....> for the permalink, and locallinks for the ima
               
 [3]: image3.md 
 [4]: image4.md 
-[5]: image5.md
+[5]: image5.md 
