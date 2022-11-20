@@ -1,5 +1,2 @@
-Reaad about CSS flexbox:
+Try .rst files and rst markup--\does it give 2-level nvaigation sidebar?:wq
 
-* [W3Schools](https://www.w3schools.com/csS/css3_flexbox.asp)
-* [Geek site](https://www.geeksforgeeks.org/css-flex-property/)
-* [youtube](https://www.youtube.com/watch?v=u044iM9xsWU)
